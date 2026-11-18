@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Studio 4K",
+  "description": "All-in-one AI video creation, multi-track timeline editing, AI audio studio, and 4K FFmpeg export platform with bilingual English and Hindi support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
